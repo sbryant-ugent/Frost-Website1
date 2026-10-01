@@ -1,0 +1,17 @@
+# TODO: PLACEHOLDER — replace with the real person's details, or delete this
+# file (and assets/media/authors/postdoc-isotopes.png) if not needed.
+schema: hugoblox/author/v1
+slug: postdoc-isotopes
+name:
+  display: To be announced
+  given: ''
+  family: zz-placeholder-2
+role: Postdoctoral researcher, reindeer isotopes (WP3)
+bio: |
+  Tracing reindeer migration with isotope analysis of teeth.
+affiliations:
+  - name: Ghent University
+    url: https://www.ugent.be/
+user_groups:
+  - Postdoctoral Researchers
+weight: 21

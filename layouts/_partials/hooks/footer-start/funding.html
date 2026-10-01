@@ -1,0 +1,44 @@
+{{/*
+  ════════════════════════════════════════════════════════════════════════════
+  EU / ERC FUNDING ACKNOWLEDGEMENT — shown at the bottom of every page.
+  Required by the ERC grant agreement. Do not remove.
+
+  TO ADD THE OFFICIAL LOGOS: download them from https://erc.europa.eu/support/logos
+  and save them in the folder  static/logos/  with exactly these names:
+      eu-emblem.png   (the "Funded by the European Union" emblem)
+      erc-logo.png    (the ERC logo)
+  (.svg versions with the same names also work.) Until the files are there,
+  grey placeholder boxes are shown instead.
+
+  TO SET THE GRANT NUMBER: replace TODO-GRANT-NUMBER below.
+  ════════════════════════════════════════════════════════════════════════════
+*/}}
+{{- $grant_number := "TODO-GRANT-NUMBER" -}}
+
+{{- $logos := slice
+  (dict "name" "eu-emblem" "alt" "Funded by the European Union" "label" "EU emblem")
+  (dict "name" "erc-logo" "alt" "European Research Council (ERC)" "label" "ERC logo")
+-}}
+<section aria-label="Funding acknowledgement" class="frost-funding mx-auto w-full max-w-5xl px-4 sm:px-6 lg:px-8 mb-10">
+  <div class="rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50/80 dark:bg-slate-900/60 px-5 py-6 sm:px-8 flex flex-col md:flex-row md:items-center gap-6">
+    <div class="flex items-center gap-4 shrink-0">
+      {{- range $logo := $logos }}
+        {{- $file := "" -}}
+        {{- range slice "png" "svg" "jpg" }}
+          {{- $candidate := printf "static/logos/%s.%s" $logo.name . -}}
+          {{- if and (not $file) (fileExists $candidate) }}{{ $file = printf "logos/%s.%s" $logo.name . }}{{ end -}}
+        {{- end }}
+        {{- if $file }}
+          <img src="{{ $file | relURL }}" alt="{{ $logo.alt }}" class="h-14 w-auto" loading="lazy" />
+        {{- else }}
+          <span class="h-14 w-28 rounded-md border-2 border-dashed border-slate-300 dark:border-slate-600 text-[0.7rem] leading-tight text-slate-500 dark:text-slate-400 flex items-center justify-center text-center px-2">{{ $logo.label }}<br/>(add official file)</span>
+        {{- end }}
+      {{- end }}
+    </div>
+    <div class="text-sm leading-relaxed text-slate-600 dark:text-slate-300">
+      <p>Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency.</p>
+      <p class="mt-2">This work is supported by ERC grant FROST, {{ $grant_number }}.</p>
+      <p class="mt-2"><a class="underline hover:text-primary-700 dark:hover:text-primary-300" href="{{ "privacy/" | relLangURL }}">Privacy</a> · <a class="underline hover:text-primary-700 dark:hover:text-primary-300" href="{{ "contact/" | relLangURL }}">Contact</a></p>
+    </div>
+  </div>
+</section>

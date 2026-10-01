@@ -1,0 +1,17 @@
+# TODO: PLACEHOLDER — replace with the real person's details, or delete this
+# file (and assets/media/authors/postdoc-palaeoclimate.png) if not needed.
+schema: hugoblox/author/v1
+slug: postdoc-palaeoclimate
+name:
+  display: To be announced
+  given: ''
+  family: zz-placeholder-1
+role: Postdoctoral researcher, palaeoclimate (WP1)
+bio: |
+  Building high-resolution climate records from cave speleothems.
+affiliations:
+  - name: Ghent University
+    url: https://www.ugent.be/
+user_groups:
+  - Postdoctoral Researchers
+weight: 20

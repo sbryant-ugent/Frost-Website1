@@ -1,0 +1,24 @@
+# TEAM MEMBER PROFILE — see possum-pince.yaml for instructions
+schema: hugoblox/author/v1
+slug: arne-willocx
+name:
+  display: Arne Willocx
+  given: Arne
+  family: Willocx
+role: PhD researcher, archaeological chronology (WP4)
+# TODO: Arne to check and edit this bio
+bio: |
+  Arne works on the timing of human occupation during the Younger Dryas, combining OSL dating and cryptotephra (microscopic volcanic ash) at open-air sites with radiocarbon dating.
+affiliations:
+  - name: Ghent University
+    url: https://www.ugent.be/
+interests:
+  - OSL dating
+  - Cryptotephra
+  - Final Palaeolithic
+links:
+  - icon: at-symbol
+    url: mailto:TODO@ugent.be
+user_groups:
+  - PhD Researchers
+weight: 11

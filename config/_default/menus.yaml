@@ -1,0 +1,32 @@
+# ══════════════════════════════════════════════════════════════════════════════
+# TOP MENU
+#
+# Each entry is one link in the menu bar. "weight" sets the order (low = left).
+# To add a page to the menu, copy an entry and change the name, url and weight.
+#
+# Note: the "Sites" link is set inside content/sites/index.md instead, so it
+# disappears automatically while that page is still marked as a draft.
+# ══════════════════════════════════════════════════════════════════════════════
+
+main:
+  - name: About
+    url: about/
+    weight: 10
+  - name: Research
+    url: research/
+    weight: 20
+  - name: Team
+    url: team/
+    weight: 40
+  - name: News
+    url: news/
+    weight: 50
+  - name: Publications
+    url: publications/
+    weight: 60
+  - name: Outreach
+    url: outreach/
+    weight: 70
+  - name: Contact
+    url: contact/
+    weight: 80

@@ -1,0 +1,30 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# TEAM MEMBER PROFILE
+# One file per person in data/authors/. The file name (without .yaml) is the
+# person's "slug" — use it in news posts and publications to credit them.
+# Photo: put a square image (about 400×400 px) in assets/media/authors/
+# named after the slug, e.g. assets/media/authors/possum-pince.jpg
+# ─────────────────────────────────────────────────────────────────────────────
+schema: hugoblox/author/v1
+slug: possum-pince
+name:
+  display: Possum Pincé
+  given: Possum
+  family: Pincé
+role: Principal Investigator
+# TODO: Possum to check and edit this bio
+bio: |
+  Possum leads FROST, bringing together geoarchaeology, palaeoecology, geochemistry and geochronology to understand how abrupt climate change shaped past landscapes and human societies. Previous work includes dating Late Glacial inland dunes in the Scheldt basin and coordinating the LEAP project on abrupt Holocene climate change in Belgium.
+affiliations:
+  - name: Ghent University
+    url: https://www.ugent.be/
+interests:
+  - Geoarchaeology
+  - Palaeoecology
+  - Climate change archaeology
+links:
+  - icon: at-symbol
+    url: mailto:TODO@ugent.be
+user_groups:
+  - Principal Investigator
+weight: 1

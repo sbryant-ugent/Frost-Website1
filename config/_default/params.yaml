@@ -1,0 +1,157 @@
+# ══════════════════════════════════════════════════════════════════════════════
+# FROST WEBSITE — MAIN SETTINGS
+#
+# This file controls the site-wide look and behaviour: name, colours, fonts,
+# header and footer. You rarely need to touch it.
+#
+# HOW TO EDIT: change the text between the quotes "like this". Keep the
+# indentation (spaces at the start of lines) exactly as it is — YAML files
+# break if the spacing changes. Lines starting with # are notes and are ignored.
+#
+# Full documentation: https://docs.hugoblox.com/
+# ══════════════════════════════════════════════════════════════════════════════
+hugoblox:
+  schema: "2.0"
+
+  # ── IDENTITY ────────────────────────────────────────────────────────────────
+  identity:
+    # Shown in the top-left of every page and in browser tabs
+    name: "FROST"
+    # Legal owner for the copyright line
+    organization: "Ghent University"
+    type: organization
+    tagline: "Hunter-gatherers and the Younger Dryas cold reversal in Western Europe"
+    # The short description search engines and social media show for the site
+    description: "FROST is an ERC-funded research project at Ghent University investigating how hunter-gatherers in Western Europe responded to the Younger Dryas, an abrupt return to near-glacial cold around 12,900–11,700 years ago."
+
+  # ── COLOURS ─────────────────────────────────────────────────────────────────
+  # Colours can be Tailwind palette names (e.g. "sky", "slate", "amber") or
+  # hex codes (e.g. "#2b5d7d").
+  theme:
+    # light | dark | system (follows the visitor's device setting)
+    mode: light
+    pack: "default"
+    colors:
+      primary: "#2b5d7d"   # glacial slate blue: links, buttons, headings
+      secondary: "#b7791f" # ochre: accents
+      neutral: "slate"     # greys
+    colors_light: {}
+    colors_dark: {}
+    surfaces:
+      background: ""
+      foreground: ""
+      header:
+        background: ""
+        foreground: ""
+      footer:
+        background: ""
+        foreground: ""
+
+  # ── FONTS ───────────────────────────────────────────────────────────────────
+  # The font files are stored inside the site (assets/dist/font/) rather than
+  # loaded from Google, so visitors' browsers don't contact Google (GDPR).
+  typography:
+    pack: "academic"
+    families:
+      heading: "Source Serif 4"
+      body: "Inter"
+      code: "system-mono"
+      nav: "Inter"
+
+  # ── LAYOUT ──────────────────────────────────────────────────────────────────
+  layout:
+    radius: "md"         # corner rounding: none | sm | md | lg | full
+    spacing: "comfortable"
+    avatar_shape: circle
+
+  # ── HEADER (top menu bar) ───────────────────────────────────────────────────
+  # The menu links themselves are in config/_default/menus.yaml
+  header:
+    enable: true
+    style: navbar
+    sticky: true
+    align: right
+    search: true
+    theme_toggle: true     # light/dark switch
+    theme_picker: false
+    language_switcher: false
+    cta:
+      enable: false
+      text: ""
+      url: ""
+
+  # ── FOOTER ──────────────────────────────────────────────────────────────────
+  # The EU/ERC funding acknowledgement is added to every page automatically by
+  # layouts/_partials/hooks/footer-start/funding.html — edit the grant number there.
+  footer:
+    style: minimal
+    language_switcher: false
+    text: ""
+
+  # ── COPYRIGHT ───────────────────────────────────────────────────────────────
+  copyright:
+    notice: "© {year} FROST project, Ghent University."
+    license:
+      type: custom
+
+  # ── SEARCH ENGINES ──────────────────────────────────────────────────────────
+  seo:
+    title: "FROST | Hunter-gatherers and the Younger Dryas"
+    ai:
+      allow:
+        - /
+      disallow: []
+      note: ""
+      contact: ""
+
+  # ── CONTENT ─────────────────────────────────────────────────────────────────
+  content:
+    math:
+      enable: false
+    toc:
+      enable: true
+    reading_time:
+      enable: false
+    citations:
+      style: apa
+
+  # ── SITE SEARCH ─────────────────────────────────────────────────────────────
+  search:
+    enable: true
+    suggestions: []
+    quick_actions: []
+
+  # ── COMMENTS (off) ──────────────────────────────────────────────────────────
+  comments:
+    enable: false
+
+  # ── ANALYTICS ───────────────────────────────────────────────────────────────
+  # Deliberately left empty: the site does not track visitors.
+  # If you ever add analytics, update the Privacy page first.
+  analytics:
+    google:
+      measurement_id: ""
+
+  # ── "EDIT THIS PAGE" LINKS ──────────────────────────────────────────────────
+  repository:
+    enable: false
+    url: "" # TODO: e.g. https://github.com/frost-ugent/frost-ugent.github.io
+    branch: main
+    content_dir: content
+
+  # ── DATES ───────────────────────────────────────────────────────────────────
+  locale:
+    date_format: "2 January 2006" # British style, e.g. 12 November 2026
+    time_format: "15:04"
+    address_format: en-gb
+
+  privacy:
+    enable: false
+    anonymize_analytics: true
+
+  debug:
+    enable: false
+
+  pro:
+    hide_attribution: false
+    affiliate_code: ""

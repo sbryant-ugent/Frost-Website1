@@ -1,0 +1,17 @@
+# TODO: PLACEHOLDER — replace with the real person's details, or delete this
+# file (and assets/media/authors/lab-technician.png) if not needed.
+schema: hugoblox/author/v1
+slug: lab-technician
+name:
+  display: To be announced
+  given: ''
+  family: zz-placeholder-3
+role: Laboratory technician
+bio: |
+  Sample preparation for speleothem, dating and tephra analyses.
+affiliations:
+  - name: Ghent University
+    url: https://www.ugent.be/
+user_groups:
+  - Technical Staff
+weight: 30

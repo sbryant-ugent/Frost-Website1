@@ -1,0 +1,24 @@
+# TEAM MEMBER PROFILE — see possum-pince.yaml for instructions
+schema: hugoblox/author/v1
+slug: stefan-bryant
+name:
+  display: Stefan Bryant
+  given: Stefan
+  family: Bryant
+role: PhD researcher, palaeoenvironments (WP2)
+# TODO: Stefan to check and edit this bio
+bio: |
+  Stefan reconstructs Younger Dryas landscapes from sediments: grain size, magnetic susceptibility, loss-on-ignition, micromorphology and radiocarbon-dated plant remains. He is a geoarchaeologist specialising in micromorphology, and previously worked as a Quaternary scientist in commercial archaeology in the UK and on cultural heritage projects in Western Australia.
+affiliations:
+  - name: Ghent University
+    url: https://www.ugent.be/
+interests:
+  - Geoarchaeology
+  - Micromorphology
+  - Late Glacial landscapes
+links:
+  - icon: at-symbol
+    url: mailto:TODO@ugent.be
+user_groups:
+  - PhD Researchers
+weight: 10
