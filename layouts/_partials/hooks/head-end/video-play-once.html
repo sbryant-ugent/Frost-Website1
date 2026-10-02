@@ -1,10 +1,19 @@
-{{/* Makes the background video on the home page play once and then stop
-     on its last frame, instead of looping. Delete this file to make it loop again. */}}
+{{/* Home page background video: plays once, then fades out over its last
+     few seconds to reveal the blue background underneath.
+     Change FADE_SECONDS below to make the fade longer or shorter.
+     Delete this file to make the video loop again (no fade). */}}
 <script>
   document.addEventListener('DOMContentLoaded', function () {
+    var FADE_SECONDS = 2;
     document.querySelectorAll('video.bg-video').forEach(function (v) {
       v.loop = false;
       v.removeAttribute('loop');
+      v.style.transition = 'opacity ' + FADE_SECONDS + 's ease-in-out';
+      function fadeOut() { v.style.opacity = '0'; }
+      v.addEventListener('timeupdate', function () {
+        if (v.duration && v.duration - v.currentTime <= FADE_SECONDS) fadeOut();
+      });
+      v.addEventListener('ended', fadeOut);
     });
   });
 </script>
