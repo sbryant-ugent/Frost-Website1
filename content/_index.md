@@ -38,7 +38,7 @@ sections:
           filename: hero-reindeer.mp4
         image:
           filters:
-            brightness: 0.4
+            brightness: 0.6
         gradient:
           type: radial
           start: "rgba(43,93,125,0.65)"
