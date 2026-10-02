@@ -80,7 +80,7 @@ sections:
     content:
       title: A climate shock in a newly resettled world
       text: |-
-        At the end of the Ice Age, hunter-gatherers gradually **recolonised Western Europe** after a retreat of several millennia. An abrupt climatic shift known as the **Younger Dryas** (c. 12,850 to 11,650 cal BP) plunged temperatures across the continent. Archaeological sites dropped sharply in number, raising questions about **population decline, migration and adaptation**. How people actually responded remains poorly understood.
+        At the end of the Last Glacial Maximum, people gradually **recolonised Western Europe** after a retreat of several millennia. An abrupt climatic shift known as the **Younger Dryas** (c. 12,850 to 11,650 cal BP) plunged temperatures across the continent. Archaeological sites dropped sharply in number, raising questions about **population decline, migration and adaptation**. How people actually responded remains poorly understood.
 
         FROST investigates how climate fluctuations within the Younger Dryas affected **human populations, mobility, subsistence and the ecosystems they relied on**. We combine palaeoclimate, palaeoecological and archaeological evidence from **30 key sites** across Western Europe, using:
 
@@ -91,7 +91,7 @@ sections:
 
         All of it is anchored by high-resolution dating: **radiocarbon, OSL, U/Th and tephrochronology**.
 
-        The project tackles four challenges: **reconstructing regional climate variability**, **assessing ecosystem responses**, **tracking reindeer herd movements**, and **refining the timing and spatial patterns of human occupation**. Feeding these into demographic and spatiotemporal models, FROST will show how prehistoric populations adapted to environmental change, with insights that also speak to **today's climate challenges**.
+        The project tackles four challenges: **reconstructing regional climate variability**, **assessing ecosystem responses**, **tracking reindeer herd movements**, and **refining the timing and spatial patterns of human occupation**. Feeding these into demographic and spatiotemporal models, FROST will show how prehistoric populations adapted to environmental change.
 
         [Why this matters →](about/)
     design:
@@ -105,45 +105,45 @@ sections:
       title: Five lines of evidence
       subtitle: Each work package tackles one piece of the puzzle; the fifth brings them together.
       items:
-        - name: Climate in the caves
+        - name: Climate through caves
           description: Stalagmites grow layer by layer. Their chemistry records temperature and rainfall at a resolution of decades.
           icon: hero/sun
           gradient: from-sky-700 to-slate-800
           topics: [Speleothems, Stable isotopes, U/Th dating]
           cta:
-            text: Work package 1
+            text: Read more
             url: research/wp1-palaeoclimate/
         - name: Reading the landscape
-          description: Cores of peat, lake mud and cave sediment reveal how vegetation, soils and water changed around the sites.
+          description: Cores of peat, lake and cave sediment reveal how vegetation, soils and water changed around the areas occupied by humans.
           icon: hero/globe-europe-africa
           gradient: from-slate-600 to-stone-800
           topics: [Pollen, Sedimentary DNA, Micromorphology]
           cta:
-            text: Work package 2
+            text: Read more
             url: research/wp2-palaeoenvironment/
         - name: Following the reindeer
-          description: Isotopes in reindeer teeth show where the animals spent each season, and so where their hunters had to be.
+          description: Isotopes in reindeer teeth show where the animals spent each season, thus where their hunters needed to be.
           icon: hero/map
           gradient: from-amber-700 to-stone-800
           topics: [Strontium, Oxygen, Carbon]
           cta:
-            text: Work package 3
+            text: Read more
             url: research/wp3-reindeer/
         - name: Putting dates on people
-          description: New radiocarbon dates on butchered bone, and OSL dating with invisible volcanic ash, sharpen the timeline of occupation.
+          description: New dates on butchered bone, sediments and volcanic ash sharpen the timeline of occupation.
           icon: hero/clock
           gradient: from-cyan-800 to-slate-900
           topics: [Radiocarbon, OSL, Cryptotephra]
           cta:
-            text: Work package 4
+            text: Read more
             url: research/wp4-chronology/
         - name: Human responses
-          description: Combining every strand to model population change and map where people could, and could not, live.
+          description: Combining every strand to model population change, mapping where people could, and could not, live.
           icon: hero/user-group
           gradient: from-stone-600 to-slate-900
           topics: [Population modelling, Niche models, GIS]
           cta:
-            text: Work package 5
+            text: Read more
             url: research/wp5-human-responses/
     design:
       layout: cards
