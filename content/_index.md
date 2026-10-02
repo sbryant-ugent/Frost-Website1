@@ -103,7 +103,7 @@ sections:
     id: research
     content:
       title: Five lines of evidence
-      subtitle: Each work package tackles one piece of the puzzle; the fifth brings them together.
+      subtitle: 
       items:
         - name: Climate through caves
           description: Stalagmites grow layer by layer. Their chemistry records temperature and rainfall at a resolution of decades.
