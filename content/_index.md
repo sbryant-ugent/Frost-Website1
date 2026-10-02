@@ -39,9 +39,6 @@ sections:
         image:
           filters:
             brightness: 0.4
-        image:
-          filters:
-            brightness: 0.4
         gradient:
           type: radial
           start: "rgba(43,93,125,0.65)"
