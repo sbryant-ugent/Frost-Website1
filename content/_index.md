@@ -84,15 +84,6 @@ sections:
 
 FROST investigates how climate fluctuations within the Younger Dryas affected **human populations, mobility, subsistence and the ecosystems they relied on**. We combine palaeoclimate, palaeoecological and archaeological evidence from **30 key sites** across Western Europe, using:
 
-- **Speleothems** isotopes, trace elements
-- **Pollen and sedaDNA**
-- **Sediments** granulometry, MS, LOI, micromorphology
-- **Reindeer remains** 
-
-All of it is anchored by high-resolution dating: **radiocarbon, OSL, U/Th and tephrochronology**.
-
-The project tackles four challenges: **reconstructing regional climate variability**, **assessing ecosystem responses**, **tracking reindeer herd movements**, and **refining the timing and spatial patterns of human occupation**. Feeding these into demographic and spatiotemporal models, FROST will show how prehistoric populations adapted to environmental change, with insights that also speak to **today's climate challenges**.
-
 What I did: [Why this matters →](about/)
     design:
       columns: '1'
