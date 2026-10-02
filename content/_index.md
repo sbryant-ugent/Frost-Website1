@@ -16,7 +16,7 @@ sections:
   # ── 1. Big banner at the top ──────────────────────────────────────────────
   - block: hero
     content:
-      eyebrow: ERC · Ghent University
+      eyebrow: European Research Council · Ghent University
       title: FROST - Frozen in Time
       text: At the northern edge of the habitable world, the final Ice Age people of Europe watched as forests gave way and the reindeer herds returned. How did people adpt to their new environment during the Younger Dryas? FROST sets out to unravel how this abrupt climate shift and the environmental change that followed shaped the human recolonisation of Western Europe.
       primary_action:
@@ -80,11 +80,20 @@ sections:
     content:
       title: A climate shock in a newly resettled world
       text: |-
-        After the coldest part of the last Ice Age, hunter-gatherers moved back into north-west Europe as the climate warmed and forests spread. Then, abruptly, the **Younger Dryas** reversed that trend: woodland gave way to open, tundra-like landscapes, large reindeer herds returned, and traces of human activity across much of the region become strikingly rare.
+        At the end of the Ice Age, hunter-gatherers gradually **recolonised Western Europe** after a retreat of several millennia. An abrupt climactic shift known as the **Younger Dryas** (c. 12,850 to 11,650 cal BP), plunged temperatures across the continent . Archaeological sites dropped sharply in number, raising questions about **population decline, migration and adaptation**. How people actually responded remains poorly understood.
 
-        Did people leave, adapt, or both? And did the answer differ from place to place? FROST tests two ideas: that populations **declined in the first half of the Younger Dryas and recovered later**, and that the timing varied along a **north-west to south-east temperature gradient**, from Britain to Germany.
+FROST investigates how climate fluctuations within the Younger Dryas affected **human populations, mobility, subsistence and the ecosystems they relied on**. We combine palaeoclimate, palaeoecological and archaeological evidence from **30 key sites** across Western Europe, using:
 
-        The question matters today, too. The Younger Dryas was most likely triggered by a slowdown of the Atlantic Ocean's circulation, a system scientists are watching closely now. [Why this matters →](about/)
+- **Speleothems** (isotopes, trace elements)
+- **Pollen and sedaDNA**
+- **Sediments** (granulometry, MS, LOI, micromorphology)
+- **Reindeer remains** (isotopes)
+
+All of it is anchored by high-resolution dating: **radiocarbon, OSL, U/Th and tephrochronology**.
+
+The project tackles four challenges: **reconstructing regional climate variability**, **assessing ecosystem responses**, **tracking reindeer herd movements**, and **refining the timing and spatial patterns of human occupation**. Feeding these into demographic and spatiotemporal models, FROST will show how prehistoric populations adapted to environmental change, with insights that also speak to **today's climate challenges**.
+
+What I did: [Why this matters →](about/)
     design:
       columns: '1'
       spacing:
