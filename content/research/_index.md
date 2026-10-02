@@ -13,7 +13,7 @@ sections:
       title: Research
       subtitle: ''
       text: |-
-        FROST is organised into five **work packages**. The first four each fill one gap in what we know about the Younger Dryas: the regional climate, its effect on landscapes, the movements of reindeer, and the timing of human occupation. The fifth brings all of the evidence together on a single timeline to test how people responded.
+        FROST is organised into five **lines of research**. The first four each fill one gap in what we know about the Younger Dryas: the regional climate, its effect on landscapes, the movements of reindeer, and the timing of human occupation. The fifth brings all of the evidence together on a single timeline to test how people responded.
 
         The work packages share sites wherever possible: climate and environmental records are taken at, or close to, the archaeological sites, so that local conditions can be compared directly with human activity.
     design:
@@ -25,7 +25,7 @@ sections:
     content:
       title: ''
       items:
-        - name: "WP1 · Climate in the caves"
+        - name: "Climate in the caves"
           description: High-resolution records of temperature and rainfall from stalagmites in Belgium, Germany and the UK.
           icon: hero/sun
           gradient: from-sky-700 to-slate-800
@@ -33,7 +33,7 @@ sections:
           cta:
             text: Read more
             url: research/wp1-palaeoclimate/
-        - name: "WP2 · Reading the landscape"
+        - name: "Reading the landscape"
           description: Vegetation, soils and water reconstructed from peat, lake and cave sediments.
           icon: hero/globe-europe-africa
           gradient: from-slate-600 to-stone-800
@@ -41,7 +41,7 @@ sections:
           cta:
             text: Read more
             url: research/wp2-palaeoenvironment/
-        - name: "WP3 · Following the reindeer"
+        - name: "Following the reindeer"
           description: Seasonal migration routes traced from isotopes in reindeer teeth from Belgian cave sites.
           icon: hero/map
           gradient: from-amber-700 to-stone-800
@@ -49,7 +49,7 @@ sections:
           cta:
             text: Read more
             url: research/wp3-reindeer/
-        - name: "WP4 · Putting dates on people"
+        - name: "Putting dates on people"
           description: A sharper timeline for cave and open-air sites from radiocarbon, OSL and volcanic ash.
           icon: hero/clock
           gradient: from-cyan-800 to-slate-900
@@ -57,7 +57,7 @@ sections:
           cta:
             text: Read more
             url: research/wp4-chronology/
-        - name: "WP5 · Human responses"
+        - name: "Human responses"
           description: Population modelling and predictive maps that bring every strand of evidence together.
           icon: hero/user-group
           gradient: from-stone-600 to-slate-900
