@@ -1,0 +1,10 @@
+{{/* Makes the background video on the home page play once and then stop
+     on its last frame, instead of looping. Delete this file to make it loop again. */}}
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    document.querySelectorAll('video.bg-video').forEach(function (v) {
+      v.loop = false;
+      v.removeAttribute('loop');
+    });
+  });
+</script>
