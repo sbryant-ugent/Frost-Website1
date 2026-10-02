@@ -13,14 +13,14 @@ FROST is a five-year research project funded by a European Research Council (ERC
 
 ## The question
 
-After the coldest phase of the last Ice Age, hunter-gatherers spread back into north-west Europe as the climate warmed during the **Late Glacial** period. Archaeologists recognise several successive cultures in this recolonisation, ending with the **Ahrensburgian**, groups who hunted reindeer across the plains and uplands of Belgium, the Netherlands and Germany.
+After the Last Glacial Maximum, hunter gatherers gradually recolonised north-west Europe as the climate warmed during the **Late Glacial** (c. 14,600–11,650 BP). This resettlement is linked to a succession of Final Palaeolithic cultures, from the late Magdalenian through to the Federmesser groups.
 
-Then the warming stalled. Within a short time, north-west Europe returned to near-glacial conditions. Forests gave way to open, tundra-like vegetation, many of the resources these groups relied on became scarce, and large herds of reindeer returned. At the same time, the archaeological traces of people become far rarer across much of the region.
+This recovery was interrupted by the **Younger Dryas** (c. 12,850–11,650 years ago), an abrupt return to near glacial conditions. Forests gave way to open, tundra like landscapes, key resources became scarce, and large reindeer herds returned. Across much of the region, evidence of human activity declines markedly. Human presence in this period is associated mainly with the **Ahrensburgian** culture, whose groups relied heavily on hunting reindeer across the plains and uplands of Belgium, the Netherlands and Germany.
 
-FROST asks what happened to those communities. It tests two hypotheses:
+FROST investigates how these communities responded to this climatic upheaval, testing two hypotheses:
 
-- **Decline and recovery.** Populations in the newly resettled north fell sharply in the first half of the Younger Dryas, and recovered in the later phase as conditions changed. Large areas may have been abandoned and later reoccupied.
-- **A regional gradient.** The timing and scale of the response varied geographically, linked to a temperature gradient running from the north-west (Britain) to the south-east, with sites reappearing later in the west and earlier in the east.
+- **Decline and recovery.** Populations in the newly recolonised north declined sharply during the first half of the Younger Dryas and recovered in its later phase as conditions changed. Large areas may have been abandoned and later reoccupied.
+- **A regional gradient.** The timing and scale of this response varied geographically, following a temperature gradient from the north-west (Britain) to the south-east, with sites reappearing later in the west and earlier in the east.
 
 ## Why it is hard to answer
 
@@ -35,9 +35,9 @@ FROST tackles each gap with its own [work package](../research/), then brings th
 
 ## Why it matters today
 
-The Younger Dryas was most likely triggered when large volumes of meltwater from the northern ice sheets entered the North Atlantic and weakened the ocean circulation that carries heat to Europe. Today, scientists are tracking a weakening of that same system, the **Atlantic Meridional Overturning Circulation (AMOC)**. Understanding how climates, landscapes and people responded in the past gives a long-term perspective on the impact of relatively small temperature changes, and on hazards such as floods and droughts.
+The Younger Dryas was most likely triggered by large releases of meltwater from the northern ice sheets into the North Atlantic, which slowed the ocean circulation that carries heat towards Europe. Today, scientists are observing a weakening of this same system, the **Atlantic Meridional Overturning Circulation (AMOC)**, and some projections suggest it may be nearing a tipping point. Reconstructing how climates, ecosystems and human populations responded in the past therefore gives a long-term perspective on the impact of relatively small temperature changes, and on hazards such as floods and droughts.
 
-There is urgency of a different kind as well. The peat bogs and wetland sediments that hold this record are themselves being lost as the climate changes. As the archaeologists Torben Rick and Daniel Sandweiss put it, this is akin to "losing volumes of history books that have never been read". FROST aims to read them while they still exist.
+The record itself is also under threat. The peat and wetland sediments that preserve it cannot be replaced, and present-day climate change is destroying more of them. As the archaeologists Torben Rick and Daniel Sandweiss put it, this is akin to "losing volumes of history books that have never been read". FROST aims to read them before they are lost.
 
 ## How we work
 
