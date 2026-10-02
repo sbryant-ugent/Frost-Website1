@@ -34,6 +34,14 @@ sections:
         padding: ["6rem", 0, "6rem", 0]
       background:
         color: "#0f2433"
+        video:
+          filename: hero-reindeer.mp4
+        image:
+          filters:
+            brightness: 0.4
+        image:
+          filters:
+            brightness: 0.4
         gradient:
           type: radial
           start: "rgba(43,93,125,0.65)"
