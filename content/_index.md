@@ -17,8 +17,8 @@ sections:
   - block: hero
     content:
       eyebrow: ERC Starting Grant · Ghent University
-      title: How did Europe's last Ice Age hunters cope with a sudden return to the cold?
-      text: Around 12,850 years ago, temperatures across Western Europe plunged back towards glacial conditions and stayed there for more than a thousand years. FROST combines cave records, ancient sediments, reindeer teeth and new dating methods to find out how hunter-gatherers lived through it.
+      title: Frozen in time – Unravelling Younger Dryas climate variability, environmental dynamics and their impact on human recolonization in Western Europe
+      text: At the edge of the habitable  world, the final ice age hunters of northern Europe watched forests vanish and reindeer herds return. 
       primary_action:
         text: Explore the research
         url: research/
