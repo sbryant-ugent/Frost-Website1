@@ -13,9 +13,9 @@ sections:
       title: Research
       subtitle: ''
       text: |-
-        FROST is organised into five **lines of research**. The first four each fill one gap in what we know about the Younger Dryas: the regional climate, its effect on landscapes, the movements of reindeer, and the timing of human occupation. The fifth brings all of the evidence together on a single timeline to test how people responded.
+        FROST is organised into five **lines of research**. The first four each address a key gap in current knowledge of the Younger Dryas: regional climate variability, its impact on landscapes and ecosystems, reindeer migration, and the chronology of human occupation. The fifth brings these results together on a single timeline to assess how human populations responded.
 
-        The work packages share sites wherever possible: climate and environmental records are taken at, or close to, the archaeological sites, so that local conditions can be compared directly with human activity.
+        Wherever possible, the lines of research share study sites. Climate and environmental records are taken at, or close to, the archaeological sites, so that local conditions can be compared directly with evidence of human activity.
     design:
       columns: '1'
       spacing:
