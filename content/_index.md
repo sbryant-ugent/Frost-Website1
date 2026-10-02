@@ -17,8 +17,8 @@ sections:
   - block: hero
     content:
       eyebrow: ERC · Ghent University
-      title: Frozen in time – Unravelling Younger Dryas climate variability, environmental dynamics and their impact on human recolonization in Western Europe
-      text: At the Northern edge of the habitable  world, the final Ice age PEOPLE of Europe watched forests vanish and reindeer herds return. 
+      title: FROST - Frozen in Time
+      text: At the northern edge of the habitable world, the final Ice Age people of Europe watched as forests gave way and the reindeer herds returned. How did people adpt to their new environment during the Younger Dryas? FROST sets out to unravel how this abrupt climate shift and the environmental change that followed shaped the human recolonisation of Western Europe.
       primary_action:
         text: Explore the research
         url: research/
