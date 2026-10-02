@@ -31,7 +31,7 @@ Four gaps in current knowledge stand in the way:
 3. **Reindeer migration routes are debated.** Different models send the herds east–west across the plain, or north–south between lowlands and uplands, with very different implications for their hunters.
 4. **The archaeological timeline is blurred.** Many sites have few or no reliable dates, especially open-air sites in sandy landscapes where organic material rarely survives.
 
-FROST tackles each gap with its own [work package](../research/), then brings the results together.
+FROST tackles each gap with its own [line of research](../research/), then brings the results together.
 
 ## Why it matters today
 
