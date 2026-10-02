@@ -16,9 +16,9 @@ sections:
   # ── 1. Big banner at the top ──────────────────────────────────────────────
   - block: hero
     content:
-      eyebrow: ERC Starting Grant · Ghent University
+      eyebrow: ERC · Ghent University
       title: Frozen in time – Unravelling Younger Dryas climate variability, environmental dynamics and their impact on human recolonization in Western Europe
-      text: At the edge of the habitable  world, the final ice age hunters of northern Europe watched forests vanish and reindeer herds return. 
+      text: At the Northern edge of the habitable  world, the final Ice age PEOPLE of Europe watched forests vanish and reindeer herds return. 
       primary_action:
         text: Explore the research
         url: research/
