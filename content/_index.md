@@ -80,16 +80,24 @@ sections:
     content:
       title: A climate shock in a newly resettled world
       text: |-
-        At the end of the Ice Age, hunter-gatherers gradually **recolonised Western Europe** after a retreat of several millennia. An abrupt climactic shift known as the **Younger Dryas** (c. 12,850 to 11,650 cal BP), plunged temperatures across the continent . Archaeological sites dropped sharply in number, raising questions about **population decline, migration and adaptation**. How people actually responded remains poorly understood.
+        At the end of the Ice Age, hunter-gatherers gradually **recolonised Western Europe** after a retreat of several millennia. An abrupt climatic shift known as the **Younger Dryas** (c. 12,850 to 11,650 cal BP) plunged temperatures across the continent. Archaeological sites dropped sharply in number, raising questions about **population decline, migration and adaptation**. How people actually responded remains poorly understood.
 
-FROST investigates how climate fluctuations within the Younger Dryas affected **human populations, mobility, subsistence and the ecosystems they relied on**. We combine palaeoclimate, palaeoecological and archaeological evidence from **30 key sites** across Western Europe, using:
+        FROST investigates how climate fluctuations within the Younger Dryas affected **human populations, mobility, subsistence and the ecosystems they relied on**. We combine palaeoclimate, palaeoecological and archaeological evidence from **30 key sites** across Western Europe, using:
 
-What I did: [Why this matters →](about/)
+        - **Speleothems** (isotopes, trace elements)
+        - **Pollen and sedaDNA**
+        - **Sediments** (granulometry, MS, LOI, micromorphology)
+        - **Reindeer remains** (isotopes)
+
+        All of it is anchored by high-resolution dating: **radiocarbon, OSL, U/Th and tephrochronology**.
+
+        The project tackles four challenges: **reconstructing regional climate variability**, **assessing ecosystem responses**, **tracking reindeer herd movements**, and **refining the timing and spatial patterns of human occupation**. Feeding these into demographic and spatiotemporal models, FROST will show how prehistoric populations adapted to environmental change, with insights that also speak to **today's climate challenges**.
+
+        [Why this matters →](about/)
     design:
       columns: '1'
       spacing:
         padding: ["2rem", 0, "3rem", 0]
-
   # ── 4. The five research strands (work packages) ──────────────────────────
   - block: focus-areas
     id: research
