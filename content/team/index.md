@@ -39,7 +39,7 @@ sections:
 
         ## Collaborators and partner laboratories
 
-        TODO: list the institutions and laboratories you want to acknowledge here (for example the dating, isotope and sedaDNA laboratories), once agreed with Possum.
+        TODO: list the institutions and laboratories you want to acknowledge here (for example the dating, isotope and sedaDNA laboratories)
     design:
       columns: '1'
       css_class: "bg-slate-50 dark:bg-gray-900/50"

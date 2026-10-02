@@ -5,20 +5,20 @@ name:
   display: Stefan Bryant
   given: Stefan
   family: Bryant
-role: PhD researcher, palaeoenvironments (WP2)
+role: PhD researcher, palaeoenvironments
 # TODO: Stefan to check and edit this bio
 bio: |
-  Stefan reconstructs Younger Dryas landscapes from sediments: grain size, magnetic susceptibility, loss-on-ignition, micromorphology and radiocarbon-dated plant remains. He is a geoarchaeologist specialising in micromorphology, and previously worked as a Quaternary scientist in commercial archaeology in the UK and on cultural heritage projects in Western Australia.
+  Stefan reconstructs Younger Dryas landscapes from sediments: grain size, magnetic susceptibility, loss on ignition and Micromorphology.Previously he has worked as a geoarchaeologist at UCL,and on cultural heritage projects in Western Australia.
 affiliations:
   - name: Ghent University
     url: https://www.ugent.be/
 interests:
   - Geoarchaeology
   - Micromorphology
-  - Late Glacial landscapes
+  - Late Glacial landscape reconstruction
 links:
   - icon: at-symbol
-    url: mailto:TODO@ugent.be
+    url: https://research.ugent.be/web/person/stefan-bryant-0/en
 user_groups:
   - PhD Researchers
 weight: 10

@@ -5,17 +5,16 @@ name:
   display: Arne Willocx
   given: Arne
   family: Willocx
-role: PhD researcher, archaeological chronology (WP4)
+role: PhD researcher, archaeological chronology
 # TODO: Arne to check and edit this bio
 bio: |
   Arne works on the timing of human occupation during the Younger Dryas, combining OSL dating and cryptotephra (microscopic volcanic ash) at open-air sites with radiocarbon dating.
 affiliations:
   - name: Ghent University
-    url: https://www.ugent.be/
+    url: https://research.ugent.be/web/person/arne-willocx-0/nl
 interests:
-  - OSL dating
   - Cryptotephra
-  - Final Palaeolithic
+  - Age Modelling
 links:
   - icon: at-symbol
     url: mailto:TODO@ugent.be
