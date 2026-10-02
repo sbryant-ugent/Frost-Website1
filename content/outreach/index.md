@@ -5,7 +5,7 @@ summary: Talks, media, podcasts and resources for schools, museums and the publi
 date: 2026-10-01
 ---
 
-The Younger Dryas is a story about people living through rapid climate change, and it speaks directly to questions we face today. FROST shares its work beyond academia through talks, regional publications, newspapers, radio, podcasts and social media.
+The Younger Dryas is a story about people living through rapid climate change, and it speaks directly to questions we face today. FROST shares its work beyond academia through talks, regional publications, old and new media
 
 Interested in a talk for your school, society or museum, or in covering the project? [Get in touch](../contact/).
 
@@ -25,11 +25,6 @@ Interested in a talk for your school, society or museum, or in covering the proj
 
 *Media coverage will be listed here.*
 
-## Podcasts
-
-<!-- TODO: Ghent University has a podcast studio. Add episodes here. -->
-
-*Coming soon.*
 
 ## Resources
 

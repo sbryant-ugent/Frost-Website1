@@ -122,7 +122,7 @@ sections:
             text: Read more
             url: research/wp2-palaeoenvironment/
         - name: Following the reindeer
-          description: Isotopes in reindeer teeth show where the animals spent each season, thus where their hunters needed to be.
+          description: Isotopes in reindeer teeth show where the animals spent each season, thus, where their hunters needed to be.
           icon: hero/map
           gradient: from-amber-700 to-stone-800
           topics: [Strontium, Oxygen, Carbon]
