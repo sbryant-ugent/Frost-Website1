@@ -18,7 +18,7 @@ sections:
     content:
       eyebrow: European Research Council · Ghent University
       title: FROST - Frozen in Time
-      text: At the northern edge of the habitable world, the final Ice Age people of Europe watched as forests gave way and the reindeer herds returned. How did people adapt to their new environment during the Younger Dryas? FROST sets out to unravel how this abrupt climate shift and the environmental change that followed shaped the human recolonisation of Western Europe.
+      text: At the northern edge of the habitable world, in hunter-gatherers in Europe watched as forests gave way and reindeer herds returned. How did people adapt to their new environment during the Younger Dryas? FROST sets out to unravel how this abrupt climate shift and the environmental change that followed shaped the human recolonisation of Western Europe.
       primary_action:
         text: Explore the research
         url: research/
