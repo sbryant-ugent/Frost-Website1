@@ -15,10 +15,10 @@ sections:
         lines:
           - FROST project
           - Department of Archaeology
-          - Ghent University
-          - "TODO: street address"
+          - Ugent
+          - "Sint-Pietersnieuwstraat 33-35"
           - "9000 Ghent, Belgium"
-      email: "TODO@ugent.be"
+      email: 
       social: []
       show_form: false
     design:
