@@ -16,10 +16,6 @@ sections:
       subtitle: ''
       text: FROST is based in the Department of Archaeology at Ghent University and works closely with the university's Department of Geology.
       user_groups:
-        - Principal Investigator
-        - PhD Researchers
-        - Postdoctoral Researchers
-        - Technical Staff
       sort_by: weight
       sort_ascending: true
     design:
@@ -28,7 +24,7 @@ sections:
       show_interests: true
       max_interests: 3
       show_social: true
-      max_columns: 4
+      max_columns: 3
       align: center
 
   - block: markdown
