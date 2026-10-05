@@ -12,20 +12,19 @@ image:
 
 ## The problem
 
-Most of what we know about Younger Dryas climate comes from far away, above all from the Greenland ice cores. They show an abrupt cooling at the start, followed by more variable, milder and possibly drier conditions later on. But people did not live in Greenland. To understand how climate affected hunter-gatherers, we need records from the regions they actually used, and recent work suggests that regional climate varied far more than once assumed.
+Current understanding of Younger Dryas climate relies heavily on distant Greenland analogous. These record an abrupt cooling at the onset, followed by more variable, milder, and possibly drier, conditions in the middle and later phases. Translating these large scale patterns to the regions hunter-gatherers actually occupied remains a challenge. Suitable records from Western Europe are scarce, and recent work indicates that regional climate varied far more than previously assumed.
 
 ## How we are tackling it
 
-**Speleothems** (stalagmites and other cave formations) grow as drips of mineral-rich water deposit thin layers of calcium carbonate. Each layer locks in a chemical signal of conditions above the cave. FROST will analyse six to nine speleothems that grew during the Younger Dryas, from caves in Belgium, Germany and the UK.
-
-- **Stable isotopes.** Oxygen isotopes reflect changes in regional atmospheric circulation; carbon isotopes reflect how productive the vegetation above the cave was. Samples are milled along the growth axis at intervals of a decade or less across key periods.
-- **Trace elements.** Magnesium, strontium and barium track rainfall, while phosphorus reflects the influence of vegetation. These are measured at very high resolution by laser-induced breakdown spectroscopy (LIBS).
-- **Uranium–thorium dating.** Around 60 small samples will be dated to pin the record precisely in time.
+**Speleothems** (stalagmites and other cave formations) form as mineral rich drip water deposits successive thin layers of calcium carbonate. Each layer preserves a chemical signal of environmental conditions above the cave at the time of growth. FROST will analyse speleothems that grew during the Younger Dryas from caves across Europe.
+- **Stable isotopes.** Oxygen isotopes reflect shifts in regional atmospheric circulation, while carbon isotopes reflect the productivity of vegetation near the cave. Both of these are closely linked to temperature.
+- **Trace elements.** Magnesium, strontium and barium serve as indicators of rainfall, while phosphorus reflects the influence of vegetation. These are measured at very high resolution (50 µm) using laser-induced breakdown spectroscopy (LIBS).
+- **Uranium–thorium dating.** Subsamples will be dated at a specialist laboratory, providing a precise and independent chronology for each record.
 
 ## What it will deliver
 
-A multi-proxy climate record with a resolution of roughly 5 to 50 years, documenting rapid changes in temperature and rainfall, and extreme events such as floods, during the Younger Dryas. The data will be shared through the open-access SISAL speleothem database.
+A high-resolution (c. 5–50 years) multi-proxy record of Younger Dryas climate in Western Europe, documenting rapid changes in temperature and rainfall. This record will provide the climatic framework against which environmental and archaeological change across the project is compared. All data will be made openly available through the SISAL speleothem database.
 
 ## Who
 
-Postdoctoral researcher (palaeoclimate), with the Principal Investigator and a laboratory technician. Speleothem expertise from the project's advisory board. <!-- TODO: add names once confirmed -->
+Led by a postdoctoral researcher in palaeoclimatology under the supervision of the Principal Investigator, with sample preparation by a laboratory technician and additional speleothem expertise from the project's advisory board. <!-- TODO: add names once confirmed -->

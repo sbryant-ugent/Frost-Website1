@@ -85,7 +85,7 @@ sections:
     content:
       title: A climate shock in a newly resettled world
       text: |-
-        At the end of the Last Glacial Maximum, people gradually **recolonised Western Europe** after a retreat of several millennia. An abrupt climatic shift known as the **Younger Dryas** (c. 12,850 to 11,650 cal BP) plunged temperatures across the continent. Archaeological sites dropped sharply in number, raising questions about **population decline, migration and adaptation**. How people actually responded remains poorly understood.
+        At the end of the Last Glacial Maximum, humans began to gradually **recolonised Western Europe** after a retreat of several millennia. An abrupt climatic shift known as the **Younger Dryas** (c. 12,850 to 11,650 cal BP) plunged temperatures across the continent. Archaeological sites dropp sharply in number, raising questions about **population decline, migration and adaptation**. How people actually responded remains poorly understood.
 
         FROST investigates how climate fluctuations within the Younger Dryas affected **human populations, mobility, subsistence and the ecosystems they relied on**. We combine palaeoclimate, palaeoecological and archaeological evidence from **30 key sites** across Western Europe, using:
 
@@ -96,7 +96,7 @@ sections:
 
         All of it is anchored by high-resolution dating: **radiocarbon, OSL, U/Th and tephrochronology**.
 
-        The project tackles four challenges: **reconstructing regional climate variability**, **assessing ecosystem responses**, **tracking reindeer herd movements**, and **refining the timing and spatial patterns of human occupation**. Feeding these into demographic and spatiotemporal models, FROST will show how prehistoric populations adapted to environmental change.
+        The project tackles four challenges: **reconstructing regional climate variability**, **assessing ecosystem responses**, **tracking reindeer herd movements**, and **refining the timing and spatial patterns of human occupation**. Feeding these into demographic and spatiotemporal models, FROST will show how final palaeolithic populations adapted to environmental change.
 
         [Why this matters →](about/)
     design:
@@ -127,7 +127,7 @@ sections:
             text: Read more
             url: research/wp2-palaeoenvironment/
         - name: Following the reindeer
-          description: Isotopes in reindeer teeth show where the animals spent each season, thus, where their hunters needed to be.
+          description: Isotopes in reindeer teeth help reconstruct migration patterns and human hunting strategies.
           icon: hero/map
           gradient: from-amber-700 to-stone-800
           topics: [Strontium, Oxygen, Carbon]
@@ -174,7 +174,7 @@ sections:
   - block: cta-card
     content:
       title: Get in touch
-      text: Are you a researcher, journalist, teacher or museum interested in the Younger Dryas or the FROST sites? We'd be glad to hear from you.
+      text: Are you a researcher, journalist, teacher or museum interested in Late Glacial archaeology? We'd be glad to hear from you.
       button:
         text: Contact the team
         url: contact/
