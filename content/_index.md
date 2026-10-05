@@ -134,7 +134,7 @@ sections:
           cta:
             text: Read more
             url: research/wp3-reindeer/
-        - name: Putting dates on people
+        - name: Timing the return
           description: New dates on butchered bone, sediments and volcanic ash sharpen the timeline of occupation.
           icon: hero/clock
           gradient: from-cyan-800 to-slate-900
