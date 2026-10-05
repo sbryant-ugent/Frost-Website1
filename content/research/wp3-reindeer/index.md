@@ -23,7 +23,7 @@ Reindeer teeth form over several months, recording aspects of the animal's envir
 
 ## What it will deliver
 
-A model of reindeer migration during the Younger Dryas, integrating the new data with existing results from Scandinavia and Central Europe. This will test the competing migration models, clarify the relationship between climate and reindeer mobility, and assess the implications for human hunting and settlement strategies.
+A model of reindeer migration during the Younger Dryas, integrating new data with existing results from Scandinavia and Central Europe. This will test competing migration models, clarify the relationship between climate and reindeer mobility, and assess the implications for human hunting and settlement strategies.
 
 ## Who
 
