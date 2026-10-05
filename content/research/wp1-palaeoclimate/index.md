@@ -1,6 +1,6 @@
 ---
 # WORK PACKAGE PAGE — edit the text below the second "---" line.
-title: "WP1 · Climate in the caves"
+title: "Climate in the Caves"
 summary: Building high-resolution records of Younger Dryas temperature and rainfall from cave speleothems.
 date: 2026-10-01
 weight: 1

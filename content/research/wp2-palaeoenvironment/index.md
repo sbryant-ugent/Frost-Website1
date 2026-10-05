@@ -1,5 +1,5 @@
 ---
-title: "WP2 · Reading the landscape"
+title: "Reading the Landscape"
 summary: Reconstructing vegetation, soils and water during the Younger Dryas from peat, lake and cave sediments.
 date: 2026-10-01
 weight: 2
