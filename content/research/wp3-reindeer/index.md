@@ -1,5 +1,5 @@
 ---
-title: "WP3 · Following the reindeer"
+title: "Following the reindeer"
 summary: Tracing the seasonal movements of Younger Dryas reindeer, and their hunters, from isotopes in teeth.
 date: 2026-10-01
 weight: 3
