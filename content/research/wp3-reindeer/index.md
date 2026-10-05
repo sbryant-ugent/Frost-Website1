@@ -7,24 +7,24 @@ image:
   caption: 'Placeholder image. TODO: replace featured.jpg with a relevant photo.'
 ---
 
-**Aim:** to reconstruct where reindeer moved through the seasons during the Younger Dryas, and what that meant for the people who hunted them.
+**Aim:** To reconstruct the seasonal movements of reindeer during the Younger Dryas to assess the implications for the hunter-gatherers
 
 ## The problem
 
-Ahrensburgian hunters depended heavily on reindeer, so the herds' movements shaped where people needed to be and when. But the routes are hotly debated. One model has reindeer moving east–west across the North European Plain, wintering in the east. Another has them wintering in the north-western lowlands and moving south to summer pastures in the uplands. An older model proposes the reverse. The Meuse basin in Belgium, with its well-preserved cave assemblages, has so far been missing from these studies.
+Ahrensburgian hunters relied heavily on reindeer - the movements of herds largely determined when, and where, people needed to be. As the climate cooled and forests gave way to tundra, changes in available forage likely changed these migration routes. Yet the routes themselves remain contested. Isotopic work at Stellmoor in northern Germany points to east–west movement across the North European Plain, with winter pastures in the east. Faunal remains from Ahrensburgian sites in western Germany instead suggest that herds wintered in the north-western lowlands and moved south to summer pastures in the uplands, while an earlier model proposes the reverse. The Meuse basin in Belgium, despite its well preserved cave assemblages, is not yet represented in these studies.
 
 ## How we are tackling it
 
-A tooth grows over months, recording the animal's surroundings as it goes. FROST will analyse 10 to 20 reindeer teeth from Ahrensburgian layers at Belgian cave sites, sampling each tooth at several points along its growth axis.
+Reindeer teeth form over several months, recording aspects of the animal's environment as they grow. FROST will analyse reindeer teeth from Ahrensburgian layers at cave sites in the Meuse basin, taking five samples along the growth axis of each tooth to capture seasonal change.
 
-- **Strontium isotopes** reflect the local geology and so indicate where the animal was living. They will be compared with a new strontium map of Belgium and with data from neighbouring regions.
-- **Oxygen and carbon isotopes** add information about climate and diet.
-- **Radiocarbon dating** of collagen from the same teeth links each animal to a point in time, so that changes in migration can be set against climate change and human activity.
+- **Strontium isotopes** reflect the underlying geology and therefore indicate where an animal was feeding. Results will be interpreted against a new high resolution strontium map of Belgium and existing data from Denmark, southern Sweden, Germany and Doggerland.
+- **Oxygen and carbon isotopes** provide complementary information on climate and diet.
+- **Radiocarbon dating** of collagen from the same teeth places each animal in time, so that shifts in migration can be compared with climatic change and human activity across the Younger Dryas.
 
 ## What it will deliver
 
-A model of reindeer migration patterns during the Younger Dryas, compared with results from Scandinavia and Central Europe, and its implications for human hunting strategies.
+A model of reindeer migration during the Younger Dryas, integrating the new data with existing results from Scandinavia and Central Europe. This will test the competing migration models, clarify the relationship between climate and reindeer mobility, and assess the implications for human hunting and settlement strategies.
 
 ## Who
 
-Postdoctoral researcher (isotopes), with the Principal Investigator. <!-- TODO: add names once confirmed -->
+Led by a postdoctoral researcher specialising in isotope analysis, with the Principal Investigator. <!-- TODO: add names once confirmed -->
